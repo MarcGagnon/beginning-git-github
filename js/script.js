@@ -1,0 +1,1 @@
+alert("Welcome to Beginning Git and GitHub");
